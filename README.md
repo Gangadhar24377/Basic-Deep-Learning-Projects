@@ -49,7 +49,7 @@ If you have any contributions to make to this repository, please feel free to su
 ## Additional Notes
 
 - The projects in this repository are designed to be educational and informative. They are not intended to be production-ready applications.
-- We've Provided you with the datasetd as well in their directories.
+- We've Provided you with the datasets as well in their respective directories.
 - The projects in this repository are not all created equal. Some projects are more complex and challenging than others. We recommend starting with the simpler projects and working your way up to the more complex projects.
 - If you get stuck on a project, please don't hesitate to ask for help. There are many online resources and communities where you can get help with deep learning.
 
